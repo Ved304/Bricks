@@ -24,8 +24,6 @@ public class Bricks {
 	public static void main(String[] args) {
 		
 		//-----KONFIGURACJA-----
-		
-		String filePath = System.getProperty("user.dir") + "/src/mainpackage/plik.txt";
         
 		List<String> blockList = new LinkedList<>();
 		List<String> instructList = new LinkedList<>();
